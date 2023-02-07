@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<struct>
+    <T>30</T>
+    <Fs>2000</Fs>
+    <win_len>0.5</win_len>
+    <slide_len>0.25</slide_len>
+    <rate>0.75</rate>
+    <sample_per_30s>110</sample_per_30s>
+    <Fs_Y>2000</Fs_Y>
+    <TimeRange_Y>30</TimeRange_Y>
+    <nSpindle>10000</nSpindle>
+    <underSamplingFact>7</underSamplingFact>
+</struct>
